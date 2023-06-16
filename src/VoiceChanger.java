@@ -24,7 +24,6 @@ public class VoiceChanger {
     private static final int CHUNK_SIZE = 1024;
 
     public static void main(String[] args) {
-    	System.out.println("ねむい");
         int recordSeconds = 3;
         String pitchFile = "temp.pitch";
         String mcepFile = "temp.mcep";
